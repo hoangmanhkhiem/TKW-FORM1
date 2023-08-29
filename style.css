@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+}
+.tick{
+    color: red;
+}
+.title-item{
+    font-weight: bold;
+    font-size: 18px;
+}
+input{
+    width: 100%;
+    border-top: none;
+    border-right: none;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+}
+td{
+    padding: 2px;
+}
+body{
+    font-size: 15px;
+}
+.col1{
+    width: 200px;
+}
+.col3{
+    width: 200px;
+}
+.Infomation{
+    margin-left: 500px;
+}
+
